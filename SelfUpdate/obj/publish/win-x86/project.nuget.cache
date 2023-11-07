@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzkHvVAuy3P5ZCMCJ45iu+RILcFGUIlcbAVpWt/d/0//J4xqgIU/obHjG/xZw3WQzCgBSUENjRZ/J+87ngHvSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rarhww\\Desktop\\Github Self update\\SelfUpdate\\SelfUpdate\\SelfUpdate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rarhww\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.13\\microsoft.netcore.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "C:\\Users\\rarhww\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "C:\\Users\\rarhww\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.13\\microsoft.aspnetcore.app.runtime.win-x86.7.0.13.nupkg.sha512",
+    "C:\\Users\\rarhww\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.13\\microsoft.netcore.app.crossgen2.win-x64.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
